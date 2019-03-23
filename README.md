@@ -1,1 +1,3 @@
-# Udacity_dog_breed_classifier
+# dog breed classifier app
+
+# from Udacity Deep Learning Nanodegree
