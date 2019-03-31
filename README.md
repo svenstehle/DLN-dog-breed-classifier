@@ -1,4 +1,4 @@
-# # Dog breed classifier app from Udacity Deep Learning Nanodegree
+# Dog breed classifier app from Udacity Deep Learning Nanodegree
 Cloned from Udacity. Took first steps towards developing an algorithm that could be used as part of a mobile or web app. Written code will accept any user-supplied image as input. If a dog is detected in the image, it will provide an estimate of the dog's breed. If a human is detected, it will provide an estimate of the dog breed that is most resembling. 
 See introduction sections in `dog_app.ipynb` for more details.
 
